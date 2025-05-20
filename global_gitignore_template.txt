@@ -1,0 +1,39 @@
+# ========== OS & Editor Files ==========
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+.vscode/
+.idea/
+
+# ========== Environment & Secrets ==========
+.env
+*.env
+
+# ========== Logs ==========
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ========== Dependency Folders ==========
+node_modules/
+__pycache__/
+
+# ========== Build & Output Folders ==========
+dist/
+build/
+coverage/
+out/
+
+# ========== Misc ==========
+*.bak
+*.tmp
+*.swp
+*.zip
+*.tar.gz
+*.tgz
+
+# ========== Python Bytecode Files ==========
+*.py[cod]
+*.pyo
