@@ -1,0 +1,61 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Travel Agency Page</title>
+  <meta name="description" content=" Explore top travel destinations, packages, and itineraries with our trusted travel agency.">
+</head>
+<body>
+
+  <!-- h1 Travel Destinations -->
+  <h1>Popular Travel Destinations</h1>
+
+  <!-- Intro paragraph -->
+  <p>Discover the most exciting places around the world! From romantic Paris to vibrant Lagos, we’ve got your perfect travel plan.</p>
+
+  <!-- h2 Packages -->
+  <h2>Packages</h2>
+
+  <!-- Paragraph introducing packages -->
+  <p>We offer flexible travel packages to suit every taste, from romantic getaways to cultural adventures and relaxing beach holidays.</p>
+
+  <!-- Unordered list with anchor links -->
+  <ul>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+  </ul>
+
+  <!-- h2 Top Itineraries -->
+  <h2>Top Itineraries</h2>
+
+  
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src=https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg alt="The Colesseum" width="400">
+    </a>
+    <figcaption>Discover Rome</figcaption>
+  </figure>
+
+  
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="The Alps" width="400">
+    </a>
+    <figcaption>Visit The Alps</figcaption>
+  </figure>
+
+  
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Swim with the Dolphins in Seychelles" width="400">
+    </a>
+    <figcaption>Swim with the Dolphins in Seychelles</figcaption>
+  </figure>
+
+</body>
+</html>
+
+** end of index.html **
+

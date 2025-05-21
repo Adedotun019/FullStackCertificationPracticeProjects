@@ -1,0 +1,39 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>
+      Recipe for Success</title>
+  </head>
+  <body>
+    <h1>Recipie for Success.</h1>
+      <p>Effective steps to Success</p> 
+      <p>
+      <img src="https://images.unsplash.com/photo-1508780709619-79562169bc64?auto=format&fit=crop&w=800&q=60" alt="Success">
+    </h1>
+    <h2>Ingredients</h2>
+<ul>
+  <li>Envision</li>
+  <li>Strategise</li>
+  <li>Stay Positive</li>
+  <li>Discipline</li>
+</ul>
+    <h2>Instructions</h2>
+<ol>
+        <li> Envision in your mind the idea of you being successful in said goal and hold on to it.</li>
+        <li>Strategise on how you intend to achieve said goal through research and innovation.</li>
+        <li>Stay positive from the start when it's easy, in between when challenges make it hard to, up to the end when you achieve the goal.</li>
+        <li>The steps will all take discipline to achieve; you need to stay the course.</li>
+  </body>
+</ol>
+</html>
+
+
+
+
+
+
+** end of index.html **
+
