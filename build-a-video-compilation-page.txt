@@ -1,0 +1,37 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main><h1>How the Internet Works: A Beginner’s Guide</h1>
+<p>Have you ever wondered what happens when you type a web address into your browser and hit Enter? In this video, we’ll break down the journey of a website request in simple terms. From DNS lookups to IP addresses, routers, and servers, we’ll explain how the internet delivers web pages to your screen in milliseconds. Whether you’re new to tech or just curious about the systems that power our connected world, this beginner-friendly guide will help you understand the basics of how the internet works—no technical jargon, just clear explanations.
+</p>
+<section>
+    <h2>✅ 1.How the Internet Works in 5 Minutes</h2>
+    <p>A quick explainer of what the internet is, how computers connect, and how information is shared.</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7_LPdttKXPc" 
+title="What is the Internet?" frameborder="0" allowfullscreen></iframe>
+</section>
+<section>
+    <h2>✅ 2.What is DNS and How Does it Work?</h2>
+    <p>Understand how domain names get translated into IP addresses so your browser can find the right server.</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5o8CwafCxnU" 
+title="DNS Explained" frameborder="0" allowfullscreen></iframe>
+</section>
+<section>
+    <h2>✅ 3.How Websites Load: The Journey of a Web Request</h2>
+    <p>Follow the full lifecycle of a request from browser to server and back.</p>
+    <<iframe width="560" height="315" src="https://www.youtube.com/embed/J6I4oBnzXYU" title="How Websites Load" frameborder="0" allowfullscreen></iframe>
+</main>
+</body>
+
+</html>
+
+** end of index.html **
+
