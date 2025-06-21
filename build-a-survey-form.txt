@@ -1,0 +1,63 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"
+    <title>Survey Form</title>
+  </head>
+  <body>
+    <h1 id="title">Dots in the Cloud Feedback Form</h1>
+    <p id="description">This is a feedback form designed to get your opinion on our service to you, our dear esteemed customer, we see improvement as part of our values. Help us serve you better!</p>
+  <form id="survey-form">
+     <fieldset>
+      <legend> Personal Information</legend>
+      <label id="name-label" for="name">Name:</label>
+      <input type="text" id="name" name="name" required placeholder="Enter you name"/>
+      <label id="email-label" for="email">Email:</label>
+      <input type="email" id="email" name="email" required placeholder="example@domain.com"/>
+      <label id="number-label" for="number">Age(optional):</label>
+      <input type="number" id="number" name="age" min="18" max="100" placeholder="Age"/>
+    </fieldset>
+    <fieldset> 
+      <legend>Preferences</legend>
+      <label for="dropdown">Your role:</label>
+      <select id="dropdown" name="role">
+        <option value="student">Student</option>
+        <option value="professional" selected>Professional</option>
+        <option value="other">Other</option>
+      </select>
+        <label for="dropdown">Service Rendered:</label> 
+        <select id="dropdown"name="Service">
+        <option value="full-stack" selected>Full-Stack</option>
+        <option value="front-end">Front-end</option>
+        <option value="back-end">Back-end</option>
+        <option value="consultancy">Consultancy</option>
+      </select>
+      <p>Rate the service rendered:</p>
+        <label><input type="radio" name="rating" value="1" /> ⭐</label>
+  <label><input type="radio" name="rating" value="2" /> ⭐⭐</label>
+  <label><input type="radio" name="rating" value="3" /> ⭐⭐⭐</label>
+  <label><input type="radio" name="rating" value="4" /> ⭐⭐⭐⭐</label>
+  <label><input type="radio" name="rating" value="5" /> ⭐⭐⭐⭐⭐</label>
+      <p>Would you recommend us?</p>
+      <label><input type="radio" name="recommend" value="yes"/>Yes</label>
+      <label><input type="radio" name="recommend" value="no"/>No</label>
+    <p>General customer experience:</p>
+    <label><input type="checkbox" value="poor"/>Poor</label>
+    <label><input type="checkbox" value="good"/>Good</label>
+    <label><input type="checkbox" value="very-good"/>Very good</label>
+    </fieldset>
+      <label for="comments">Comments:</label><br/>
+  <textarea id="comments" rows="4" cols="40" placeholder="Your thoughts..."></textarea>
+  <button id="submit">submit</button> 
+</form>
+
+
+    
+  </body>
+</html>
+
+** end of index.html **
+
